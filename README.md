@@ -7,6 +7,10 @@ https://itch.io/jam/pursuing-pixels-james-jam-game-gam-4/rate/3600962
 # About Game
 You're the Captain of the USS Greyhound, a Union ironclad on patrol in 1862. However, when you came across a strange battered frigate, you can't help but wonder; is this ship really what it seems to be? <br>
 Or is it, as you may have feared, the old Flying Dutchman? <br>
+Move up & down using the mouse  <br>
+[Z] to fire cannonball upwards  <br>
+[X] to fire cannonball downwards  <br>
+[Left Shift] to speed up (Phase 2 Only)  <br>
 <br>
 ![Test Image 4](https://img.itch.zone/aW1hZ2UvMzYwMDk2Mi8yMTQzNzkxNS5wbmc=/original/57CKBc.png)
 <br>
