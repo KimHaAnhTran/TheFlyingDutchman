@@ -2,7 +2,7 @@
 CLICK TO PLAY ON WEB<br>
 https://ducktran.itch.io/the-flying-dutchman <br><br>
 RATINGS PAGE <br>
-https://itch.io/jam/pursuing-pixels-james-jam-game-gam-4/rate/3600962
+https://itch.io/jam/pursuing-pixels-james-jam-game-gam-4/rate/3600962 
 <br>
 # About Game
 You're the Captain of the USS Greyhound, a Union ironclad on patrol in 1862. However, when you came across a strange battered frigate, you can't help but wonder; is this ship really what it seems to be? <br>
